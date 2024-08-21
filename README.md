@@ -1,4 +1,4 @@
-# Repositório para os Desafios e arquivos do Bootcampo NTT DATA
+# Repositório para os Desafios e arquivos do Bootcamp NTT DATA
 
 ## Módulo: Sintaxe Básica com Python
 
